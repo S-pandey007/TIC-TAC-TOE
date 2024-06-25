@@ -1,24 +1,3 @@
-It seems I couldn't find your GitHub repository through a web search. To troubleshoot this, ensure that the repository exists and is public. Here are a few things you can check:
-
-1. **Repository Exists and is Public:**
-   - Make sure your repository actually exists under the specified URL.
-   - Ensure that the repository is public if you want others to access it without needing special permissions.
-
-2. **Correct URL:**
-   - Verify the URL format. The correct URL should be `https://github.com/S-pandey007/tic-tac-toe.git`.
-
-3. **Repository Name:**
-   - Double-check that the repository name is exactly `tic-tac-toe` (case-sensitive and no extra spaces).
-
-If everything is correct and the repository still doesn't show up, try accessing it directly via your browser. You can also check your GitHub account settings to ensure there are no restrictions on your repositories.
-
-### Example README.md Update
-
-Here is the example README.md file with your correct GitHub repository URL:
-
-```markdown
-# Tic Tac Toe
-
 A simple, interactive Tic Tac Toe game implemented with HTML, CSS, and JavaScript.
 
 ## Table of Contents
