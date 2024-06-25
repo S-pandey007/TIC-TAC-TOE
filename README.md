@@ -35,4 +35,4 @@ You only need a web browser to play this game.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/shubhamapndey/tic-tac-toe.git
+   git clone https://github.com/S-pandey007/tic-tac-toe.git
